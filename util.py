@@ -6,6 +6,14 @@ import googleapiclient.errors
 from youtube_transcript_api import YouTubeTranscriptApi
 import pandas as pd 
 import secret 
+
+
+import re
+from collections import Counter
+
+#https://www.techiedelight.com/remove-punctuations-string-python/
+def remove_punc(s): return re.sub(r'[.,"\'-?:!;]', '', s)
+
 scopes = ["https://www.googleapis.com/auth/youtube.readonly"]
 
 def get_response_playlist(playlist):
@@ -27,7 +35,6 @@ def get_response_playlist(playlist):
 
 def get_videos_playllist(response):
     return [response['items'][i]['contentDetails']['videoId'] for i in range(len(response['items']))]
-
 
 
 ## DOWNLOAD THE VIDEO SUBTITLES
