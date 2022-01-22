@@ -1,0 +1,963 @@
+,word,episode,start,context
+0,hallo,_IW7zvMlRcc,0.17,hallo ik ben bart bepaald
+1,ik,_IW7zvMlRcc,0.17,hallo ik ben bart bepaald
+2,ben,_IW7zvMlRcc,0.17,hallo ik ben bart bepaald
+3,bart,_IW7zvMlRcc,0.17,hallo ik ben bart bepaald
+4,bepaald,_IW7zvMlRcc,0.17,hallo ik ben bart bepaald
+5,online,_IW7zvMlRcc,3.899,online docent nederlands
+6,docent,_IW7zvMlRcc,3.899,online docent nederlands
+7,nederlands,_IW7zvMlRcc,3.899,online docent nederlands
+8,dit,_IW7zvMlRcc,7.89,dit is heb gezinnen hier
+9,is,_IW7zvMlRcc,7.89,dit is heb gezinnen hier
+10,heb,_IW7zvMlRcc,7.89,dit is heb gezinnen hier
+11,gezinnen,_IW7zvMlRcc,7.89,dit is heb gezinnen hier
+12,hier,_IW7zvMlRcc,7.89,dit is heb gezinnen hier
+13,oefenen,_IW7zvMlRcc,11.19,oefenen we nederlandse zinnen we
+14,we,_IW7zvMlRcc,11.19,oefenen we nederlandse zinnen we
+15,nederlandse,_IW7zvMlRcc,11.19,oefenen we nederlandse zinnen we
+16,zinnen,_IW7zvMlRcc,11.19,oefenen we nederlandse zinnen we
+17,combineren,_IW7zvMlRcc,15.24,combineren de woorden en de grammatica
+18,de,_IW7zvMlRcc,15.24,combineren de woorden en de grammatica
+19,woorden,_IW7zvMlRcc,15.24,combineren de woorden en de grammatica
+20,en,_IW7zvMlRcc,15.24,combineren de woorden en de grammatica
+21,grammatica,_IW7zvMlRcc,15.24,combineren de woorden en de grammatica
+22,van,_IW7zvMlRcc,18.529,van lui die stork
+23,lui,_IW7zvMlRcc,18.529,van lui die stork
+24,die,_IW7zvMlRcc,18.529,van lui die stork
+25,stork,_IW7zvMlRcc,18.529,van lui die stork
+26,je,_IW7zvMlRcc,23.16,je ziet een filmpje en je ziet
+27,ziet,_IW7zvMlRcc,23.16,je ziet een filmpje en je ziet
+28,een,_IW7zvMlRcc,23.16,je ziet een filmpje en je ziet
+29,filmpje,_IW7zvMlRcc,23.16,je ziet een filmpje en je ziet
+30,ondertiteling,_IW7zvMlRcc,28.34,ondertiteling in twee talen
+31,in,_IW7zvMlRcc,28.34,ondertiteling in twee talen
+32,twee,_IW7zvMlRcc,28.34,ondertiteling in twee talen
+33,talen,_IW7zvMlRcc,28.34,ondertiteling in twee talen
+34,marieke,_IW7zvMlRcc,36.32,dit is marieke
+35,café,_IW7zvMlRcc,40.24,marieke is in een café
+36,daar,_IW7zvMlRcc,45.61,daar is martin
+37,martin,_IW7zvMlRcc,45.61,daar is martin
+38,maar,_IW7zvMlRcc,48.73,maar marieke kent martin niet
+39,kent,_IW7zvMlRcc,48.73,maar marieke kent martin niet
+40,niet,_IW7zvMlRcc,48.73,maar marieke kent martin niet
+41,hoi,_IW7zvMlRcc,53.68,hallo hoi hoe heet jij
+42,hoe,_IW7zvMlRcc,53.68,hallo hoi hoe heet jij
+43,heet,_IW7zvMlRcc,53.68,hallo hoi hoe heet jij
+44,jij,_IW7zvMlRcc,53.68,hallo hoi hoe heet jij
+45,waar,_IW7zvMlRcc,73.06,waar woon jij
+46,woon,_IW7zvMlRcc,73.06,waar woon jij
+47,amsterdam,_IW7zvMlRcc,76.84,ik woon in amsterdam en jij
+48,rotterdam,_IW7zvMlRcc,82.18,ik woon in rotterdam
+49,wat,_IW7zvMlRcc,87.4,wat ben jij
+50,meisje,_IW7zvMlRcc,89.77,ik ben een meisje
+51,ja,_IW7zvMlRcc,94.78,ja dat zie ik ook wel
+52,dat,_IW7zvMlRcc,94.78,ja dat zie ik ook wel
+53,zie,_IW7zvMlRcc,94.78,ja dat zie ik ook wel
+54,ook,_IW7zvMlRcc,94.78,ja dat zie ik ook wel
+55,wel,_IW7zvMlRcc,94.78,ja dat zie ik ook wel
+56,mijn,_IW7zvMlRcc,98.289,mijn vraag is wat is jouw beroep
+57,vraag,_IW7zvMlRcc,98.289,mijn vraag is wat is jouw beroep
+58,jouw,_IW7zvMlRcc,98.289,mijn vraag is wat is jouw beroep
+59,beroep,_IW7zvMlRcc,98.289,mijn vraag is wat is jouw beroep
+60,oh,_IW7zvMlRcc,104.17,oh bijberoep
+61,bijberoep,_IW7zvMlRcc,104.17,oh bijberoep
+62,nt2,_IW7zvMlRcc,113.89,ja ik ben docent nt2
+63,als,_IW7zvMlRcc,125.479,en twee twee is nederlands als tweede
+64,tweede,_IW7zvMlRcc,125.479,en twee twee is nederlands als tweede
+65,taal,_IW7zvMlRcc,129.019,taal
+66,geef,_IW7zvMlRcc,131.019,oh ik geef nederlandse les aan
+67,les,_IW7zvMlRcc,131.019,oh ik geef nederlandse les aan
+68,aan,_IW7zvMlRcc,131.019,oh ik geef nederlandse les aan
+69,buitenlandse,_IW7zvMlRcc,137.84,buitenlandse studenten wat leuk
+70,studenten,_IW7zvMlRcc,137.84,buitenlandse studenten wat leuk
+71,leuk,_IW7zvMlRcc,137.84,buitenlandse studenten wat leuk
+72,heel,_IW7zvMlRcc,144.86,ja dat is heel leuk
+73,het,_IW7zvMlRcc,148.76,ik heb het studenten uit alle landen
+74,uit,_IW7zvMlRcc,148.76,ik heb het studenten uit alle landen
+75,alle,_IW7zvMlRcc,148.76,ik heb het studenten uit alle landen
+76,landen,_IW7zvMlRcc,148.76,ik heb het studenten uit alle landen
+77,lampen,_IW7zvMlRcc,153.069,alle lampen
+78,jazeker,_IW7zvMlRcc,157.37,jazeker uit duitsland uit frankrijk uit
+79,duitsland,_IW7zvMlRcc,157.37,jazeker uit duitsland uit frankrijk uit
+80,frankrijk,_IW7zvMlRcc,157.37,jazeker uit duitsland uit frankrijk uit
+81,engeland,_IW7zvMlRcc,163.91,engeland
+82,student,_IW7zvMlRcc,166.06900000000005,ik heb een student uit spanje uit
+83,spanje,_IW7zvMlRcc,166.06900000000005,ik heb een student uit spanje uit
+84,rusland,_IW7zvMlRcc,169.79,rusland en ik student is nederlander
+85,nederlander,_IW7zvMlRcc,169.79,rusland en ik student is nederlander
+86,spreekt,_IW7zvMlRcc,176.45,nederlander maar spreekt hij dan geen
+87,hij,_IW7zvMlRcc,176.45,nederlander maar spreekt hij dan geen
+88,dan,_IW7zvMlRcc,176.45,nederlander maar spreekt hij dan geen
+89,geen,_IW7zvMlRcc,176.45,nederlander maar spreekt hij dan geen
+90,nee,_IW7zvMlRcc,182.54,nee hij kan geen nederlands
+91,kan,_IW7zvMlRcc,182.54,nee hij kan geen nederlands
+92,heeft,_IW7zvMlRcc,185.06,hij heeft een nederlandse vader en een
+93,vader,_IW7zvMlRcc,185.06,hij heeft een nederlandse vader en een
+94,franse,_IW7zvMlRcc,189.23,franse moeder
+95,moeder,_IW7zvMlRcc,189.23,franse moeder
+96,woont,_IW7zvMlRcc,191.54,hij woont in frankrijk
+97,thuis,_IW7zvMlRcc,195.23,thuis praten ze frans
+98,praten,_IW7zvMlRcc,195.23,thuis praten ze frans
+99,ze,_IW7zvMlRcc,195.23,thuis praten ze frans
+100,frans,_IW7zvMlRcc,195.23,thuis praten ze frans
+101,nu,_IW7zvMlRcc,198.04,maar nu wil hij nederlands leren
+102,wil,_IW7zvMlRcc,198.04,maar nu wil hij nederlands leren
+103,leren,_IW7zvMlRcc,198.04,maar nu wil hij nederlands leren
+104,oké,_IW7zvMlRcc,202.9,oké ik begrijp het
+105,begrijp,_IW7zvMlRcc,202.9,oké ik begrijp het
+106,werk,_IW7zvMlRcc,208.06,mijn werk is een beetje saai saai
+107,beetje,_IW7zvMlRcc,208.06,mijn werk is een beetje saai saai
+108,saai,_IW7zvMlRcc,208.06,mijn werk is een beetje saai saai
+109,zit,_IW7zvMlRcc,215.92,ik zit heel de dag achter de computer
+110,dag,_IW7zvMlRcc,215.92,ik zit heel de dag achter de computer
+111,achter,_IW7zvMlRcc,215.92,ik zit heel de dag achter de computer
+112,computer,_IW7zvMlRcc,215.92,ik zit heel de dag achter de computer
+113,doe,_IW7zvMlRcc,220.959,oh en wat doe je dan
+114,schrijf,_IW7zvMlRcc,225.34,ik schrijf e-mails en dichtbij met
+115,e-mails,_IW7zvMlRcc,225.34,ik schrijf e-mails en dichtbij met
+116,dichtbij,_IW7zvMlRcc,225.34,ik schrijf e-mails en dichtbij met
+117,met,_IW7zvMlRcc,225.34,ik schrijf e-mails en dichtbij met
+118,klanten,_IW7zvMlRcc,228.219,klanten waar zit een jouw klanten in de
+119,hele,_IW7zvMlRcc,235.54,hele wereld
+120,wereld,_IW7zvMlRcc,235.54,hele wereld
+121,klant,_IW7zvMlRcc,243.48,ik heb een klant in spanje in de rusland
+122,nederland,_IW7zvMlRcc,247.5,en ik heb klanten in nederland en welke
+123,welke,_IW7zvMlRcc,247.5,en ik heb klanten in nederland en welke
+124,spreek,_IW7zvMlRcc,253.86,taal spreek je met je klanten
+125,zes,_IW7zvMlRcc,258.65,ik spreek zes talen engels frans duits
+126,engels,_IW7zvMlRcc,258.65,ik spreek zes talen engels frans duits
+127,duits,_IW7zvMlRcc,258.65,ik spreek zes talen engels frans duits
+128,spaans,_IW7zvMlRcc,265.69,spaans en russisch
+129,russisch,_IW7zvMlRcc,265.69,spaans en russisch
+130,wou,_IW7zvMlRcc,270.91900000000004,wou jij spreekt veel talen
+131,veel,_IW7zvMlRcc,270.91900000000004,wou jij spreekt veel talen
+132,toch,_IW7zvMlRcc,275.539,maar dat is toch leuk
+133,zoveel,_IW7zvMlRcc,278.6,zoveel talen te spreken op je werk
+134,te,_IW7zvMlRcc,278.6,zoveel talen te spreken op je werk
+135,spreken,_IW7zvMlRcc,278.6,zoveel talen te spreken op je werk
+136,op,_IW7zvMlRcc,278.6,zoveel talen te spreken op je werk
+137,eigenlijk,_IW7zvMlRcc,284.72,ja eigenlijk is dat wel leuk
+138,natuurlijk,_IW7zvMlRcc,289.08,jij wil natuurlijk mensen zien
+139,mensen,_IW7zvMlRcc,289.08,jij wil natuurlijk mensen zien
+140,zien,_IW7zvMlRcc,289.08,jij wil natuurlijk mensen zien
+141,mg,_IW7zvMlRcc,292.349,mg computer koopt eens naar mijn les dan
+142,koopt,_IW7zvMlRcc,292.349,mg computer koopt eens naar mijn les dan
+143,eens,_IW7zvMlRcc,292.349,mg computer koopt eens naar mijn les dan
+144,naar,_IW7zvMlRcc,292.349,mg computer koopt eens naar mijn les dan
+145,kun,_IW7zvMlRcc,298.889,kun je kennismaken met mijn studenten en
+146,kennismaken,_IW7zvMlRcc,298.889,kun je kennismaken met mijn studenten en
+147,kunt,_IW7zvMlRcc,303.659,je kunt praten in elke taal
+148,elke,_IW7zvMlRcc,303.659,je kunt praten in elke taal
+149,beste,_IW7zvMlRcc,307.65,maar het beste natuurlijk in het
+150,goed,_IW7zvMlRcc,313.319,wat een goed idee dat was het filmpje
+151,idee,_IW7zvMlRcc,313.319,wat een goed idee dat was het filmpje
+152,was,_IW7zvMlRcc,313.319,wat een goed idee dat was het filmpje
+153,vandaag,_IW7zvMlRcc,319.469,van vandaag
+154,website,_IW7zvMlRcc,323.43,begrijp je het filmpje op de website
+155,learn,_IW7zvMlRcc,327.96,learn dutch dat woord vind je de tekst
+156,dutch,_IW7zvMlRcc,327.96,learn dutch dat woord vind je de tekst
+157,woord,_IW7zvMlRcc,327.96,learn dutch dat woord vind je de tekst
+158,vind,_IW7zvMlRcc,327.96,learn dutch dat woord vind je de tekst
+159,tekst,_IW7zvMlRcc,327.96,learn dutch dat woord vind je de tekst
+160,tot,_IW7zvMlRcc,333.27,tot de volgende keer
+161,volgende,_IW7zvMlRcc,333.27,tot de volgende keer
+162,keer,_IW7zvMlRcc,333.27,tot de volgende keer
+163,wij,_IW7zvMlRcc,335.34,wij heb je zin
+164,zin,_IW7zvMlRcc,335.34,wij heb je zin
+165,pauw,WR03sGxnV-4,0.11,hallo ik ben bart de pauw
+166,welkom,WR03sGxnV-4,7.68,welkom bij heb je zin in deze les
+167,hashtag,WR03sGxnV-4,11.759,oefenen we de grammatica van hashtag
+168,grammar,WR03sGxnV-4,15.809,dutch grammar
+169,plus,WR03sGxnV-4,17.22,plus 11 en 12 over
+170,11,WR03sGxnV-4,17.22,plus 11 en 12 over
+171,12,WR03sGxnV-4,17.22,plus 11 en 12 over
+172,getal,WR03sGxnV-4,22.109,getal en het meervoud
+173,meervoud,WR03sGxnV-4,22.109,getal en het meervoud
+174,zijn,WR03sGxnV-4,27.599,martin en marieke zijn op de markt
+175,eten,WR03sGxnV-4,32.25,ze gaan eten kopen
+176,kopen,WR03sGxnV-4,32.25,ze gaan eten kopen
+177,daarna,WR03sGxnV-4,35.85,daarna gaat marthe voor marieke koken
+178,marthe,WR03sGxnV-4,35.85,daarna gaat marthe voor marieke koken
+179,koken,WR03sGxnV-4,35.85,daarna gaat marthe voor marieke koken
+180,hou,WR03sGxnV-4,49.11,lekker ik hou van hollandse kost een
+181,hollandse,WR03sGxnV-4,49.11,lekker ik hou van hollandse kost een
+182,kost,WR03sGxnV-4,49.11,lekker ik hou van hollandse kost een
+183,stukje,WR03sGxnV-4,54.3,stukje vlees aardappelen en groenten dan
+184,vlees,WR03sGxnV-4,54.3,stukje vlees aardappelen en groenten dan
+185,aardappelen,WR03sGxnV-4,54.3,stukje vlees aardappelen en groenten dan
+186,groenten,WR03sGxnV-4,54.3,stukje vlees aardappelen en groenten dan
+187,eerst,WR03sGxnV-4,60.03,gaan we eerst naar de groenteboer
+188,groenteboer,WR03sGxnV-4,60.03,gaan we eerst naar de groenteboer
+189,verse,WR03sGxnV-4,64.11,verse grote tomaten uien in de
+190,grote,WR03sGxnV-4,64.11,verse grote tomaten uien in de
+191,tomaten,WR03sGxnV-4,64.11,verse grote tomaten uien in de
+192,uien,WR03sGxnV-4,64.11,verse grote tomaten uien in de
+193,aanbieding,WR03sGxnV-4,69.56,aanbieding
+194,mooie,WR03sGxnV-4,72.119,mooie groene boom boom
+195,groene,WR03sGxnV-4,72.119,mooie groene boom boom
+196,boom,WR03sGxnV-4,72.119,mooie groene boom boom
+197,hoeveel,WR03sGxnV-4,76.47,hoeveel aardappelen zullen we kopen
+198,personen,WR03sGxnV-4,80.68,we zijn met twee personen 10 aardappelen
+199,10,WR03sGxnV-4,80.68,we zijn met twee personen 10 aardappelen
+200,alstublieft,WR03sGxnV-4,87.16,dat is goed 10 aardappelen alstublieft
+201,1,WR03sGxnV-4,91.38,1 2 3 4 5 6 7 8 9 10
+202,2,WR03sGxnV-4,91.38,1 2 3 4 5 6 7 8 9 10
+203,3,WR03sGxnV-4,91.38,1 2 3 4 5 6 7 8 9 10
+204,4,WR03sGxnV-4,91.38,1 2 3 4 5 6 7 8 9 10
+205,5,WR03sGxnV-4,91.38,1 2 3 4 5 6 7 8 9 10
+206,6,WR03sGxnV-4,91.38,1 2 3 4 5 6 7 8 9 10
+207,7,WR03sGxnV-4,91.38,1 2 3 4 5 6 7 8 9 10
+208,8,WR03sGxnV-4,91.38,1 2 3 4 5 6 7 8 9 10
+209,9,WR03sGxnV-4,91.38,1 2 3 4 5 6 7 8 9 10
+210,920,WR03sGxnV-4,111.13,920 gram
+211,gram,WR03sGxnV-4,111.13,920 gram
+212,euro,WR03sGxnV-4,113.659,dat is 2 euro 50
+213,50,WR03sGxnV-4,113.659,dat is 2 euro 50
+214,anders,WR03sGxnV-4,118.49,anders nog iets meneer
+215,meneer,WR03sGxnV-4,118.49,anders nog iets meneer
+216,courgettes,WR03sGxnV-4,125.09,ik vind courgettes lekker
+217,mag,WR03sGxnV-4,128.3,mag ik 2 courgettes
+218,meneertje,WR03sGxnV-4,131.6,2 courgettes voor meneertje even kijken
+219,500,WR03sGxnV-4,136.61,500 gram dat is 3 euro 25
+220,75,WR03sGxnV-4,148.58,2 euro 50 plus 3 euro 25 is 5 euro 75
+221,briefje,WR03sGxnV-4,159.14,alstublieft hier is een briefje van 10
+222,krijgt,WR03sGxnV-4,163.64,dan krijgt u van mij wisselgeld
+223,u,WR03sGxnV-4,163.64,dan krijgt u van mij wisselgeld
+224,wisselgeld,WR03sGxnV-4,163.64,dan krijgt u van mij wisselgeld
+225,min,WR03sGxnV-4,167.39,10 euro min 5 euro 75
+226,munten,WR03sGxnV-4,178.22,alstublieft twee munten van twee euro en
+227,beentjes,WR03sGxnV-4,183.769,twee beentjes een van 20 cent en een van
+228,20,WR03sGxnV-4,183.769,twee beentjes een van 20 cent en een van
+229,cent,WR03sGxnV-4,183.769,twee beentjes een van 20 cent en een van
+230,vijf,WR03sGxnV-4,188.69,vijf cent
+231,biefstuk,WR03sGxnV-4,198.49,biefstuk lust jij dat ja natuurlijk dat
+232,lust,WR03sGxnV-4,198.49,biefstuk lust jij dat ja natuurlijk dat
+233,mogen,WR03sGxnV-4,209.5,mogen wij twee biefstukjes
+234,biefstukjes,WR03sGxnV-4,209.5,mogen wij twee biefstukjes
+235,200,WR03sGxnV-4,213.459,hoeveel gram biefstukjes van 200 tot 250
+236,250,WR03sGxnV-4,213.459,hoeveel gram biefstukjes van 200 tot 250
+237,probleem,WR03sGxnV-4,227.11,mag het iets meer zijn geen probleem dat
+238,85,WR03sGxnV-4,232.87,is dan 9 euro 85
+239,alsjeblieft,WR03sGxnV-4,238.33,alsjeblieft het wisselgeld mag houden
+240,houden,WR03sGxnV-4,238.33,alsjeblieft het wisselgeld mag houden
+241,alles,WR03sGxnV-4,243.01,zo nu hebben we alles
+242,toetje,WR03sGxnV-4,246.19,zullen we nog een toetje koken maar
+243,moeten,WR03sGxnV-4,252.64,dan moeten we nog even naar de
+244,supermarkt,WR03sGxnV-4,254.41,supermarkt
+245,the,WR03sGxnV-4,256.81,the cache hier vlakbij wat vind je
+246,cache,WR03sGxnV-4,256.81,the cache hier vlakbij wat vind je
+247,vlakbij,WR03sGxnV-4,256.81,the cache hier vlakbij wat vind je
+248,vlaflip,WR03sGxnV-4,262.24,vlaflip
+249,[Muziek],jj7bzM2oac8,0.13,[Muziek]
+250,press,jj7bzM2oac8,16.949,press 13 over voorzetsels
+251,13,jj7bzM2oac8,16.949,press 13 over voorzetsels
+252,voorzetsels,jj7bzM2oac8,16.949,press 13 over voorzetsels
+253,staan,jj7bzM2oac8,24.24,staan op de markt ze hebben eten voor
+254,winkel,jj7bzM2oac8,30.96,maar ze willen nog naar de winkel om een
+255,naast,jj7bzM2oac8,37.05,naast de markt is een supermarkt
+256,lopen,jj7bzM2oac8,41.37,martin en marieke lopen naar de
+257,stopt,jj7bzM2oac8,47.94,stopt matten hij vraagt aan marieke
+258,matten,jj7bzM2oac8,47.94,stopt matten hij vraagt aan marieke
+259,nodig,jj7bzM2oac8,52.82899999999999,wat hebben we nodig vroeger haar flip
+260,vroeger,jj7bzM2oac8,52.82899999999999,wat hebben we nodig vroeger haar flip
+261,haar,jj7bzM2oac8,52.82899999999999,wat hebben we nodig vroeger haar flip
+262,flip,jj7bzM2oac8,52.82899999999999,wat hebben we nodig vroeger haar flip
+263,sla,jj7bzM2oac8,57.32899999999999,sla
+264,yoghurt,jj7bzM2oac8,58.46,yoghurt en limonadesiroop
+265,limonadesiroop,jj7bzM2oac8,58.46,yoghurt en limonadesiroop
+266,binnen,jj7bzM2oac8,63.02,oké ze gaan de supermarkt binnen in de
+267,pakt,jj7bzM2oac8,68.54,supermarkt pakt martin
+268,mandje,jj7bzM2oac8,70.7,een mandje ze lopen naar de
+269,melkproducten,jj7bzM2oac8,74.36,melkproducten
+270,staat,jj7bzM2oac8,80.789,waar staat de vlaar
+271,vlaar,jj7bzM2oac8,80.789,waar staat de vlaar
+272,nemen,jj7bzM2oac8,88.45,welke vlaar nemen we chocoladevla
+273,chocoladevla,jj7bzM2oac8,88.45,welke vlaar nemen we chocoladevla
+274,vanillevla,jj7bzM2oac8,92.829,nee we nemen vanillevla
+275,onder,jj7bzM2oac8,96.49,die staat onder de chocoladevla
+276,neem,jj7bzM2oac8,100.479,oh ja ik neem dit pak
+277,pak,jj7bzM2oac8,100.479,oh ja ik neem dit pak
+278,houdbaarheid,jj7bzM2oac8,104.56,kijk naar de houdbaarheid staten die
+279,staten,jj7bzM2oac8,104.56,kijk naar de houdbaarheid staten die
+280,houdbaarheidsdatum,jj7bzM2oac8,111.579,houdbaarheidsdatum
+281,tht,jj7bzM2oac8,114.84899999999999,hier tht
+282,tenminste,jj7bzM2oac8,117.84899999999999,dat betekent tenminste houdbaar tot 22
+283,houdbaar,jj7bzM2oac8,117.84899999999999,dat betekent tenminste houdbaar tot 22
+284,22,jj7bzM2oac8,117.84899999999999,dat betekent tenminste houdbaar tot 22
+285,oktober,jj7bzM2oac8,123.34,oktober
+286,drie,jj7bzM2oac8,125.02,dat is over drie dagen en nu de yoghurt
+287,dagen,jj7bzM2oac8,125.02,dat is over drie dagen en nu de yoghurt
+288,24,jj7bzM2oac8,137.37,24 oktober ook goed
+289,limonade,jj7bzM2oac8,142.64,en nu nog de limonade siroop
+290,siroop,jj7bzM2oac8,142.64,en nu nog de limonade siroop
+291,ie,jj7bzM2oac8,146.36,paar staat ie daar achter dat trek
+292,trek,jj7bzM2oac8,146.36,paar staat ie daar achter dat trek
+293,doet,jj7bzM2oac8,154.16,martin doet de limonade siroop in het
+294,kassa,jj7bzM2oac8,167.72,ze lopen naar de kassa voor de kassa
+295,rij,jj7bzM2oac8,171.35,staat een rij
+296,wachten,jj7bzM2oac8,174.14,ze wachten in de rij tot ze aan de beurt
+297,beurt,jj7bzM2oac8,174.14,ze wachten in de rij tot ze aan de beurt
+298,vanille,jj7bzM2oac8,179.72,vanille vla yoghurt en dimona de siroop
+299,vla,jj7bzM2oac8,179.72,vanille vla yoghurt en dimona de siroop
+300,dimona,jj7bzM2oac8,179.72,vanille vla yoghurt en dimona de siroop
+301,tasje,jj7bzM2oac8,190.28,tasje
+302,spaart,jj7bzM2oac8,195.92,spaart u zegeltjes nee dat is dan 4 euro
+303,zegeltjes,jj7bzM2oac8,195.92,spaart u zegeltjes nee dat is dan 4 euro
+304,65,jj7bzM2oac8,202.12,65 watt inhaalt een briefje van 50
+305,watt,jj7bzM2oac8,202.12,65 watt inhaalt een briefje van 50
+306,inhaalt,jj7bzM2oac8,202.12,65 watt inhaalt een briefje van 50
+307,portemonnee,jj7bzM2oac8,207.5,uit zijn portemonnee heeft u niet
+308,kleiner,jj7bzM2oac8,210.95,kleiner vraagt de caissière
+309,caissière,jj7bzM2oac8,210.95,kleiner vraagt de caissière
+310,pit,jj7bzM2oac8,220.6,ik kan ook pit graag
+311,graag,jj7bzM2oac8,220.6,ik kan ook pit graag
+312,genoeg,jj7bzM2oac8,224.26,ik heb niet genoeg wisselgeld
+313,zij,jj7bzM2oac8,228.43,martin pakt zij bankpasje uit zijn
+314,bankpasje,jj7bzM2oac8,228.43,martin pakt zij bankpasje uit zijn
+315,uw,jj7bzM2oac8,231.31,portemonnee voor uw pas in hib
+316,pas,jj7bzM2oac8,231.31,portemonnee voor uw pas in hib
+317,hib,jj7bzM2oac8,231.31,portemonnee voor uw pas in hib
+318,toets,jj7bzM2oac8,237.97,toets nu uw pincode in
+319,pincode,jj7bzM2oac8,237.97,toets nu uw pincode in
+320,druk,jj7bzM2oac8,242.86,druk oké dat is het noorden
+321,noorden,jj7bzM2oac8,242.86,druk oké dat is het noorden
+322,bonnetje,jj7bzM2oac8,247.24,wilt u het bonnetje ja alsjeblieft
+323,prettige,jj7bzM2oac8,257.53,prettige avond tot ziens martin en
+324,avond,jj7bzM2oac8,257.53,prettige avond tot ziens martin en
+325,ziens,jj7bzM2oac8,257.53,prettige avond tot ziens martin en
+326,lopend,jj7bzM2oac8,263.41,lopend naar buiten op straat
+327,straat,jj7bzM2oac8,263.41,lopend naar buiten op straat
+328,controleren,jj7bzM2oac8,266.95,controleren ze het bonnetje
+329,klopt,jj7bzM2oac8,270.449,klopt het vraagt marieke
+330,erg,jj7bzM2oac8,273.61,ja het klopt het nu heb ik heel erg
+331,honger,jj7bzM2oac8,278.349,honger
+332,huis,jj7bzM2oac8,280.569,ik ook ze lopen naar het huis van martin
+333,ken,jj7bzM2oac8,290.409,ken je alle voorzetsels de volgende les
+334,hard,WBSKudiuG9w,0.759,hallo ik ben hard de kassa
+335,procent,WBSKudiuG9w,3.79,online procent nederlands
+336,kunnen,WBSKudiuG9w,11.439,hoe kunnen we een nederlandse zender
+337,zender,WBSKudiuG9w,11.439,hoe kunnen we een nederlandse zender
+338,nette,WBSKudiuG9w,14.019,nette de grammatica schande
+339,schande,WBSKudiuG9w,14.019,nette de grammatica schande
+340,sterke,WBSKudiuG9w,16.109,een sterke drugskartels
+341,drugskartels,WBSKudiuG9w,16.109,een sterke drugskartels
+342,over,WBSKudiuG9w,19.669,over verkleind door punten
+343,verkleind,WBSKudiuG9w,19.669,over verkleind door punten
+344,door,WBSKudiuG9w,19.669,over verkleind door punten
+345,punten,WBSKudiuG9w,19.669,over verkleind door punten
+346,endless,WBSKudiuG9w,22.289,endless
+347,15,WBSKudiuG9w,23.269,15
+348,ramp,WBSKudiuG9w,24.769,over ramp zou worden
+349,zou,WBSKudiuG9w,24.769,over ramp zou worden
+350,worden,WBSKudiuG9w,24.769,over ramp zou worden
+351,gaat,WBSKudiuG9w,32.3,"martin gaat van de avond van tevoren
+marieke koken"
+352,"tevoren
+marieke",WBSKudiuG9w,32.3,"martin gaat van de avond van tevoren
+marieke koken"
+353,intussen,WBSKudiuG9w,38.94,intussen komen van de markt
+354,komen,WBSKudiuG9w,38.94,intussen komen van de markt
+355,markt,WBSKudiuG9w,38.94,intussen komen van de markt
+356,appartement,WBSKudiuG9w,42.99,martin woont in een appartement
+357,vijfde,WBSKudiuG9w,45.95,op de vijfde verdieping
+358,verdieping,WBSKudiuG9w,45.95,op de vijfde verdieping
+359,voor,WBSKudiuG9w,49.04,voor marieke is dit de eerste keer
+360,eerste,WBSKudiuG9w,49.04,voor marieke is dit de eerste keer
+361,bij,WBSKudiuG9w,52.47,bij martin tweakers
+362,tweakers,WBSKudiuG9w,52.47,bij martin tweakers
+363,gezellig,WBSKudiuG9w,55.48,wat een gezellig het appartementje
+364,appartementje,WBSKudiuG9w,55.48,wat een gezellig het appartementje
+365,zegt,WBSKudiuG9w,58.72,zegt marieke
+366,straks,WBSKudiuG9w,64.58,straks laat ik het huis zien
+367,laat,WBSKudiuG9w,64.58,straks laat ik het huis zien
+368,hebben,WBSKudiuG9w,67.13,maar we hebben hun handen
+369,hun,WBSKudiuG9w,67.13,maar we hebben hun handen
+370,handen,WBSKudiuG9w,67.13,maar we hebben hun handen
+371,dus,WBSKudiuG9w,69.27,dus eerst gaan we koken
+372,gaan,WBSKudiuG9w,69.27,dus eerst gaan we koken
+373,elkaar,WBSKudiuG9w,72.87,ze lopen elkaar het keukentje
+374,keukentje,WBSKudiuG9w,72.87,ze lopen elkaar het keukentje
+375,helpen,WBSKudiuG9w,80.53,kunnen je helpen met koken
+376,ondertussen,WBSKudiuG9w,85.2,wil je ondertussen heb ik iets drinken
+377,iets,WBSKudiuG9w,85.2,wil je ondertussen heb ik iets drinken
+378,drinken,WBSKudiuG9w,85.2,wil je ondertussen heb ik iets drinken
+379,biertje,WBSKudiuG9w,89.49,ik lust wel een biertje
+380,zelf,WBSKudiuG9w,92.94,pak zelf maken
+381,maken,WBSKudiuG9w,92.94,pak zelf maken
+382,flesjes,WBSKudiuG9w,94.89,"de flesjes bestaan in de koelkast
+openheid tweede plaats 2"
+383,bestaan,WBSKudiuG9w,94.89,"de flesjes bestaan in de koelkast
+openheid tweede plaats 2"
+384,"koelkast
+openheid",WBSKudiuG9w,94.89,"de flesjes bestaan in de koelkast
+openheid tweede plaats 2"
+385,plaats,WBSKudiuG9w,94.89,"de flesjes bestaan in de koelkast
+openheid tweede plaats 2"
+386,dank,WBSKudiuG9w,105.03,dank je wel
+387,kok,WBSKudiuG9w,106.8,wil jij kok iets
+388,mij,WBSKudiuG9w,111.34,voor mij het bijltje
+389,bijltje,WBSKudiuG9w,111.34,voor mij het bijltje
+390,deur,WBSKudiuG9w,114.33,waar staat de deur wijzen
+391,wijzen,WBSKudiuG9w,114.33,waar staat de deur wijzen
+392,er,WBSKudiuG9w,117.27,"er staat een flesje in herten tergend
+een kaarsje van rechts"
+393,flesje,WBSKudiuG9w,117.27,"er staat een flesje in herten tergend
+een kaarsje van rechts"
+394,herten,WBSKudiuG9w,117.27,"er staat een flesje in herten tergend
+een kaarsje van rechts"
+395,"tergend
+een",WBSKudiuG9w,117.27,"er staat een flesje in herten tergend
+een kaarsje van rechts"
+396,kaarsje,WBSKudiuG9w,117.27,"er staat een flesje in herten tergend
+een kaarsje van rechts"
+397,rechts,WBSKudiuG9w,117.27,"er staat een flesje in herten tergend
+een kaarsje van rechts"
+398,troost,WBSKudiuG9w,123.61,troost
+399,proost,WBSKudiuG9w,125.53,proost
+400,cocker,WBSKudiuG9w,128.619,eerst cocker dat de aardappeltjes
+401,aardappeltjes,WBSKudiuG9w,128.619,eerst cocker dat de aardappeltjes
+402,schil,WBSKudiuG9w,132.039,schil jij de aardappeltjes
+403,philip,WBSKudiuG9w,139.969,philip het is een haar dankwoord meisje
+404,dankwoord,WBSKudiuG9w,139.969,philip het is een haar dankwoord meisje
+405,snijdt,WBSKudiuG9w,143.409,"dan snijdt etc ondertussen de courgette
+in plakjes"
+406,etc,WBSKudiuG9w,143.409,"dan snijdt etc ondertussen de courgette
+in plakjes"
+407,"courgette
+in",WBSKudiuG9w,143.409,"dan snijdt etc ondertussen de courgette
+in plakjes"
+408,plakjes,WBSKudiuG9w,143.409,"dan snijdt etc ondertussen de courgette
+in plakjes"
+409,kraag,WBSKudiuG9w,152.139,de aardappeltjes met zijn kraag
+410,pannetje,WBSKudiuG9w,154.519,waar vind ik het pannetje
+411,kastje,WBSKudiuG9w,159.659,in herten tweede kastje
+412,club,WBSKudiuG9w,163.039,maar de club doet water inter kampt
+413,water,WBSKudiuG9w,163.039,maar de club doet water inter kampt
+414,inter,WBSKudiuG9w,163.039,maar de club doet water inter kampt
+415,kampt,WBSKudiuG9w,163.039,maar de club doet water inter kampt
+416,zetten,WBSKudiuG9w,167.449,ze zetten de aardappeltjes op het 4 2
+417,laatste,WBSKudiuG9w,171.509,als laatste bak ik de stukjes vlees
+418,bak,WBSKudiuG9w,171.509,als laatste bak ik de stukjes vlees
+419,stukjes,WBSKudiuG9w,171.509,als laatste bak ik de stukjes vlees
+420,"aardappeltjes
+garage",WBSKudiuG9w,176.27900000000002,"maar eerst moeten de aardappeltjes
+garage eigenlijk"
+421,moet,WBSKudiuG9w,181.099,dat moet een tussensprint verwacht
+422,tussensprint,WBSKudiuG9w,181.099,dat moet een tussensprint verwacht
+423,verwacht,WBSKudiuG9w,181.099,dat moet een tussensprint verwacht
+424,doen,WBSKudiuG9w,185.269,wat gaan we doen nac heeft ing
+425,nac,WBSKudiuG9w,185.269,wat gaan we doen nac heeft ing
+426,ing,WBSKudiuG9w,185.269,wat gaan we doen nac heeft ing
+427,typisch,WBSKudiuG9w,194.599,typisch amsterdams kroegje
+428,amsterdams,WBSKudiuG9w,194.599,typisch amsterdams kroegje
+429,kroegje,WBSKudiuG9w,194.599,typisch amsterdams kroegje
+430,pijntje,WBSKudiuG9w,199.489,een pijntje verderop is een café
+431,verderop,WBSKudiuG9w,199.489,een pijntje verderop is een café
+432,overwachts,WBSKudiuG9w,205.989,overwachts
+433,vriend,WBSKudiuG9w,208.189,ik heb een vriend
+434,komt,WBSKudiuG9w,210.33900000000003,"en die komt hier om 19 uur voetbal
+kijken"
+435,om,WBSKudiuG9w,210.33900000000003,"en die komt hier om 19 uur voetbal
+kijken"
+436,19,WBSKudiuG9w,210.33900000000003,"en die komt hier om 19 uur voetbal
+kijken"
+437,uur,WBSKudiuG9w,210.33900000000003,"en die komt hier om 19 uur voetbal
+kijken"
+438,"voetbal
+kijken",WBSKudiuG9w,210.33900000000003,"en die komt hier om 19 uur voetbal
+kijken"
+439,achtste,WBSKudiuG9w,215.189,de achtste finale
+440,finale,WBSKudiuG9w,215.189,de achtste finale
+441,junkies,WBSKudiuG9w,217.1,van de junkies league
+442,league,WBSKudiuG9w,217.1,van de junkies league
+443,waarom,WBSKudiuG9w,222.419,waarom kijken we niet in herten café
+444,kijken,WBSKudiuG9w,222.419,waarom kijken we niet in herten café
+445,kook,WBSKudiuG9w,225.689,en dan komt hij de kook
+446,telefoon,WBSKudiuG9w,231.359,ik pak mijn telefoon
+447,had,WBSKudiuG9w,234.649,martin daar had ze een vriend
+448,betaalt,WBSKudiuG9w,237.529,hij betaalt zien dat de volgende keer
+449,verkleinwoord,WBSKudiuG9w,242.449,begrijp je deur verkleinwoord doen
+450,m,WBSKudiuG9w,245.679,m de bank zal worden
+451,bank,WBSKudiuG9w,245.679,m de bank zal worden
+452,zal,WBSKudiuG9w,245.679,m de bank zal worden
+453,moeilijk,WBSKudiuG9w,248.439,is het moeilijk
+454,kijk,WBSKudiuG9w,249.969,kijk ik dan nog eens na de les 4 10
+455,nog,WBSKudiuG9w,249.969,kijk ik dan nog eens na de les 4 10
+456,na,WBSKudiuG9w,249.969,kijk ik dan nog eens na de les 4 10
+457,51,WBSKudiuG9w,253.489,51
+458,herstel,WBSKudiuG9w,254.86900000000003,van herstel dex kramer
+459,dex,WBSKudiuG9w,254.86900000000003,van herstel dex kramer
+460,kramer,WBSKudiuG9w,254.86900000000003,van herstel dex kramer
+461,naam,bPjYWUBv_QE,0.319,hallo mijn naam is bart de pauw
+462,3:20,bPjYWUBv_QE,17.77,les 3:20 posities en werkwoorden die
+463,posities,bPjYWUBv_QE,17.77,les 3:20 posities en werkwoorden die
+464,werkwoorden,bPjYWUBv_QE,17.77,les 3:20 posities en werkwoorden die
+465,positie,bPjYWUBv_QE,23.38,iets over een positie vertellen
+466,vertellen,bPjYWUBv_QE,23.38,iets over een positie vertellen
+467,marten,bPjYWUBv_QE,27.61,marten en marieke gaan vlaflip eten
+468,gian,bPjYWUBv_QE,31.72,gian luca belt aan dacht ja lk kom
+469,luca,bPjYWUBv_QE,31.72,gian luca belt aan dacht ja lk kom
+470,belt,bPjYWUBv_QE,31.72,gian luca belt aan dacht ja lk kom
+471,dacht,bPjYWUBv_QE,31.72,gian luca belt aan dacht ja lk kom
+472,lk,bPjYWUBv_QE,31.72,gian luca belt aan dacht ja lk kom
+473,kom,bPjYWUBv_QE,31.72,gian luca belt aan dacht ja lk kom
+474,verder,bPjYWUBv_QE,40.69,kom verder wij staan in de keuken hallo
+475,keuken,bPjYWUBv_QE,40.69,kom verder wij staan in de keuken hallo
+476,john,bPjYWUBv_QE,49.839,hoi marieke die ik ben john lucca
+477,lucca,bPjYWUBv_QE,49.839,hoi marieke die ik ben john lucca
+478,ooit,bPjYWUBv_QE,53.92,ooit jou lk wil je ook vlaflip
+479,jou,bPjYWUBv_QE,53.92,ooit jou lk wil je ook vlaflip
+480,nou,bPjYWUBv_QE,63.11,nou ik laat het je zien
+481,vlak,bPjYWUBv_QE,67.04,de vlak en de yoghurt staan in de
+482,koelkast,bPjYWUBv_QE,69.68,koelkast in het gele pak zit vlaar
+483,gele,bPjYWUBv_QE,69.68,koelkast in het gele pak zit vlaar
+484,paarse,bPjYWUBv_QE,75.59,in het paarse pak zit yoghurt
+485,pakte,bPjYWUBv_QE,80.24,martin pakte de 2 pakken uit de koelkast
+486,pakken,bPjYWUBv_QE,80.24,martin pakte de 2 pakken uit de koelkast
+487,vraagt,bPjYWUBv_QE,85.88,marieke vraagt waar is de limonade
+488,flessen,bPjYWUBv_QE,91.31,de flessen met de limonade siroop staat
+489,pot,bPjYWUBv_QE,94.34,in het tweede kastje voor de pot met
+490,pindakaas,bPjYWUBv_QE,98.66,pindakaas
+491,fles,bPjYWUBv_QE,101.42,marieke pakt de fles
+492,kommetjes,bPjYWUBv_QE,104.78,nu nog 3 kommetjes
+493,koekjes,bPjYWUBv_QE,107.84,die staan achter de koekjes in het derde
+494,derde,bPjYWUBv_QE,107.84,die staan achter de koekjes in het derde
+495,kommetje,bPjYWUBv_QE,117.71,kommetje
+496,deze,bPjYWUBv_QE,119.27,zit dat in deze fles
+497,lokaal,bPjYWUBv_QE,123.32,ja die ja lokaal de limonade siroop zit
+498,kleur,bPjYWUBv_QE,132.709,mooie kleur zegt john lucca net als
+499,net,bPjYWUBv_QE,132.709,mooie kleur zegt john lucca net als
+500,blond,bPjYWUBv_QE,136.37,blond haar en bovenop de vanille vla
+501,bovenop,bPjYWUBv_QE,136.37,blond haar en bovenop de vanille vla
+502,klaar,bPjYWUBv_QE,143.84,doen we de yoghurt klaar
+503,liggen,bPjYWUBv_QE,148.129,waar liggen de lepeltjes de lepeltjes
+504,lepeltjes,bPjYWUBv_QE,148.129,waar liggen de lepeltjes de lepeltjes
+505,leggen,bPjYWUBv_QE,152.42,leggen in het laatje onder het aanrecht
+506,laatje,bPjYWUBv_QE,152.42,leggen in het laatje onder het aanrecht
+507,aanrecht,bPjYWUBv_QE,152.42,leggen in het laatje onder het aanrecht
+508,zullen,bPjYWUBv_QE,157.04,zullen we het in de woonkamer opeten
+509,woonkamer,bPjYWUBv_QE,157.04,zullen we het in de woonkamer opeten
+510,opeten,bPjYWUBv_QE,157.04,zullen we het in de woonkamer opeten
+511,zitten,bPjYWUBv_QE,169.13,ze gaan zitten martin en marieke
+512,stoel,bPjYWUBv_QE,175.94,zit op een stoel gian luca
+513,lekker,bPjYWUBv_QE,185.269,het lekker ja erg lekker
+514,voetbal,bPjYWUBv_QE,190.37,waar gaan we voetbal kijken
+515,eindje,bPjYWUBv_QE,193.51,een eindje verderop zit een café
+516,hangt,bPjYWUBv_QE,198.15900000000002,daar hangt een groot scherm
+517,groot,bPjYWUBv_QE,198.15900000000002,daar hangt een groot scherm
+518,scherm,bPjYWUBv_QE,198.15900000000002,daar hangt een groot scherm
+519,lessen,bPjYWUBv_QE,228.04,les 20 vind je deze lessen
+520,video,bPjYWUBv_QE,232.239,leuk onder de video in youtube staat een
+521,youtube,bPjYWUBv_QE,232.239,leuk onder de video in youtube staat een
+522,duimpje,bPjYWUBv_QE,237.76,duimpje
+523,dankjewel,bPjYWUBv_QE,243.19,dankjewel tot de volgende keer bij hebt
+524,hebt,bPjYWUBv_QE,243.19,dankjewel tot de volgende keer bij hebt
+525,herhalingsles,BPVge62iVt8,11.35,dit is een herhalingsles
+526,kroeg,BPVge62iVt8,31.75,zitten in de kroeg ze gaan
+527,champions,BPVge62iVt8,39.579,finale van de champions league tussen
+528,tussen,BPVge62iVt8,39.579,finale van de champions league tussen
+529,ajax,BPVge62iVt8,43.03,ajax en ac milaan
+530,ac,BPVge62iVt8,43.03,ajax en ac milaan
+531,milaan,BPVge62iVt8,43.03,ajax en ac milaan
+532,daarom,BPVge62iVt8,57.699,daarom hier smart en boos op marieke en
+533,smart,BPVge62iVt8,57.699,daarom hier smart en boos op marieke en
+534,boos,BPVge62iVt8,57.699,daarom hier smart en boos op marieke en
+535,foute,BPVge62iVt8,65.83,foute opmerking
+536,opmerking,BPVge62iVt8,65.83,foute opmerking
+537,samen,BPVge62iVt8,73.18,we gaan samen naar de markt
+538,dick,BPVge62iVt8,76.57,je komt bij mij eten dick laat je mijn
+539,mee,BPVge62iVt8,85.13,ik neem je mee naar de kroeg allemaal
+540,allemaal,BPVge62iVt8,85.13,ik neem je mee naar de kroeg allemaal
+541,tegen,BPVge62iVt8,90.68,maar nu ben je tegen mijn club ajax
+542,sorry,BPVge62iVt8,95.899,ja sorry marthe
+543,haat,BPVge62iVt8,97.939,ik haat ajax maar waarom deze wedstrijd
+544,wedstrijd,BPVge62iVt8,97.939,ik haat ajax maar waarom deze wedstrijd
+545,feyenoord,BPVge62iVt8,113.93,sorry martin ik ben voor feyenoord
+546,altijd,BPVge62iVt8,120.53,ik ben altijd voor de ploeg die tegen
+547,ploeg,BPVge62iVt8,120.53,ik ben altijd voor de ploeg die tegen
+548,speelt,BPVge62iVt8,123.77,ajax speelt
+549,raar,BPVge62iVt8,127.49,ik vind dat een beetje raar
+550,tijd,BPVge62iVt8,148.97,tijd voor een biertje goed idee
+551,biertjes,BPVge62iVt8,153.86,oké mag ik drie biertjes alsjeblieft
+552,begint,BPVge62iVt8,173.209,de wedstrijd begint
+553,gianluca,BPVge62iVt8,175.8,marieke gianluca en martin
+554,einde,BPVge62iVt8,179.62,kijken de wedstrijd tot het einde ac
+555,wit,BPVge62iVt8,185.44,wit de wedstrijd marieke
+556,blij,BPVge62iVt8,189.28,is blij ajax verliest dus martin is
+557,verliest,BPVge62iVt8,189.28,is blij ajax verliest dus martin is
+558,verdrietig,BPVge62iVt8,194.53,verdrietig
+559,eentje,BPVge62iVt8,197.83,ze drinken nog een biertje en nog eentje
+560,ogen,BPVge62iVt8,214.03,wat heb je mooie ogen
+561,bent,BPVge62iVt8,217.6,jij bent toch docent nederlands
+562,lesgeven,BPVge62iVt8,221.53,kun je lesgeven aan mij
+563,zo,BPVge62iVt8,224.62,mijn nederlands is nog niet zo goed zegt
+564,wanneer,BPVge62iVt8,238.03,wanneer
+565,misschien,BPVge62iVt8,240.36,misschien nu
+566,wordt,BPVge62iVt8,243.45,martin wordt een beetje jaloers
+567,jaloers,BPVge62iVt8,243.45,martin wordt een beetje jaloers
+568,trein,BPVge62iVt8,247.41,hoe laat moet je de trein naar rotterdam
+569,half,BPVge62iVt8,260.82,nou dat is over een half uur dan moet je
+570,opschieten,BPVge62iVt8,265.5,opschieten
+571,al,BPVge62iVt8,267.9,oh is het al zo laat
+572,loop,BPVge62iVt8,272.19,hoe loop ik naar het station
+573,station,BPVge62iVt8,272.19,hoe loop ik naar het station
+574,buiten,BPVge62iVt8,276.24,als je buiten komt ga je naar rechts
+575,ga,BPVge62iVt8,276.24,als je buiten komt ga je naar rechts
+576,steeds,BPVge62iVt8,279.81,dan loop je steeds rechtdoor
+577,rechtdoor,BPVge62iVt8,279.81,dan loop je steeds rechtdoor
+578,kerk,BPVge62iVt8,283.74,bij de kerk ga je naar links dan loop je
+579,links,BPVge62iVt8,283.74,bij de kerk ga je naar links dan loop je
+580,vier,BPVge62iVt8,288.24,vier
+581,vanzelf,BPVge62iVt8,288.99,rechtdoor en dan kom je vanzelf bij het
+582,even,BPVge62iVt8,292.71,station loop je niet even met mij mee
+583,moe,BPVge62iVt8,301.11,ik ben een beetje moe
+584,slapen,BPVge62iVt8,303.66,ik ga slapen ik kan wel met je meelopen
+585,meelopen,BPVge62iVt8,303.66,ik ga slapen ik kan wel met je meelopen
+586,jan,BPVge62iVt8,310.83,zegt jan luca ja graag
+587,gebruiken,SIJDUepPwFE,8.41,welkom bij heb je zin wanneer gebruiken
+588,soms,SIJDUepPwFE,18.82,soms gebruiken we in het nederlands een
+589,lidwoord,SIJDUepPwFE,21.82,lidwoord
+590,zoals,SIJDUepPwFE,26.41,zoals in deze zin maar andersom kan ook
+591,andersom,SIJDUepPwFE,26.41,zoals in deze zin maar andersom kan ook
+592,21,SIJDUepPwFE,39.999,dutch grammar les 21
+593,bedankt,SIJDUepPwFE,55.089,bedankt dat je me naar het station
+594,me,SIJDUepPwFE,55.089,bedankt dat je me naar het station
+595,brengt,SIJDUepPwFE,57.37,brengt geen probleem zegt john loca
+596,loca,SIJDUepPwFE,57.37,brengt geen probleem zegt john loca
+597,vrouw,SIJDUepPwFE,67.29899999999999,mooie vrouw
+598,blozen,SIJDUepPwFE,71.789,marieke moet blozen ze vindt de aandacht
+599,vindt,SIJDUepPwFE,71.789,marieke moet blozen ze vindt de aandacht
+600,aandacht,SIJDUepPwFE,71.789,marieke moet blozen ze vindt de aandacht
+601,vertel,SIJDUepPwFE,84.63,vertel eens iets over jezelf
+602,jezelf,SIJDUepPwFE,84.63,vertel eens iets over jezelf
+603,weten,SIJDUepPwFE,88.77,wat wil je weten waarom ben je in
+604,dokter,SIJDUepPwFE,98.49,oh ja wat doe je ik ben dokter dokter
+605,hoog,SIJDUepPwFE,106.679,hoe hoog ik ben cardioloog in het amc
+606,cardioloog,SIJDUepPwFE,106.679,hoe hoog ik ben cardioloog in het amc
+607,amc,SIJDUepPwFE,106.679,hoe hoog ik ben cardioloog in het amc
+608,indruk,SIJDUepPwFE,118.619,indruk
+609,alyan,SIJDUepPwFE,121.02,en je bent iets alyan
+610,italiaan,SIJDUepPwFE,123.479,ja ik ben italiaan maar ik ben ook
+611,amerika,SIJDUepPwFE,127.87899999999999,amerika
+612,nationaliteiten,SIJDUepPwFE,130.679,heb je twee nationaliteiten
+613,inderdaad,SIJDUepPwFE,134.819,ja inderdaad mijn vader is niet al je
+614,verenigde,SIJDUepPwFE,140.73,en mijn moeder komt uit de verenigde
+615,hobby's,SIJDUepPwFE,148.56,en wat zijn je hobby's
+616,hobby,SIJDUepPwFE,152.04,mijn hobby is voetbal kijken en koffie
+617,koffie,SIJDUepPwFE,152.04,mijn hobby is voetbal kijken en koffie
+618,lachen,SIJDUepPwFE,166.62,marieke moet lachen
+619,ah,SIJDUepPwFE,168.08,ah natuurlijk
+620,echte,SIJDUepPwFE,171.03,zoals een echte italiaan
+621,privé,SIJDUepPwFE,185.52,geef je ook privé les
+622,privéles,SIJDUepPwFE,189.18,ja ik geef soms privéles bij expats
+623,expats,SIJDUepPwFE,189.18,ja ik geef soms privéles bij expats
+624,echt,SIJDUepPwFE,195.57,je bent echt mooi
+625,mooi,SIJDUepPwFE,195.57,je bent echt mooi
+626,geven,SIJDUepPwFE,198.36,wil je mij ook privé les geven heb je
+627,vriendin,SIJDUepPwFE,204.33,een vriendin niet hier
+628,bedoel,SIJDUepPwFE,208.52,niet hier wat bedoel je
+629,zeker,SIJDUepPwFE,212.72,je hebt zeker een vrienden in italië
+630,vrienden,SIJDUepPwFE,212.72,je hebt zeker een vrienden in italië
+631,italië,SIJDUepPwFE,212.72,je hebt zeker een vrienden in italië
+632,snap,SIJDUepPwFE,225.14,ik snap het verschil niet vriend of
+633,verschil,SIJDUepPwFE,225.14,ik snap het verschil niet vriend of
+634,of,SIJDUepPwFE,225.14,ik snap het verschil niet vriend of
+635,afknapper,SIJDUepPwFE,233.78,is het een afknapper
+636,bijna,SIJDUepPwFE,238.49,ze zijn bijna bij het station over twee
+637,minuten,SIJDUepPwFE,243.05,minuten gaat mijn trein
+638,rennen,SIJDUepPwFE,245.18,zegt marieke ik moet rennen doei
+639,doei,SIJDUepPwFE,245.18,zegt marieke ik moet rennen doei
+640,rent,SIJDUepPwFE,250.4,marieke rent naar de trein
+641,blijft,SIJDUepPwFE,253.61,gian luca blijft achter
+642,kopje,SIJDUepPwFE,258.59,dan ga ik maar een kopje koffie drinken
+643,appel,SIJDUepPwFE,266.76,ben je al appel nee van mijn kanaal op
+644,kanaal,SIJDUepPwFE,266.76,ben je al appel nee van mijn kanaal op
+645,abonneren,SIJDUepPwFE,272.67,als je op abonneren klikt dan krijg je
+646,klikt,SIJDUepPwFE,272.67,als je op abonneren klikt dan krijg je
+647,krijg,SIJDUepPwFE,272.67,als je op abonneren klikt dan krijg je
+648,week,SIJDUepPwFE,276.21,elke week nieuwe lessen
+649,nieuwe,SIJDUepPwFE,276.21,elke week nieuwe lessen
+650,onderwerp,9RI-gWTSvLQ,18.73,onderwerp vakantie en de grammatica van
+651,vakantie,9RI-gWTSvLQ,18.73,onderwerp vakantie en de grammatica van
+652,23,9RI-gWTSvLQ,26.59,les 23 over het onbepaald voornaamwoord
+653,onbepaald,9RI-gWTSvLQ,26.59,les 23 over het onbepaald voornaamwoord
+654,voornaamwoord,9RI-gWTSvLQ,26.59,les 23 over het onbepaald voornaamwoord
+655,luister,9RI-gWTSvLQ,34.12,luister goed naar de volgende woorden
+656,nooit,9RI-gWTSvLQ,37.08,ooit en nooit iets en niets
+657,niets,9RI-gWTSvLQ,37.08,ooit en nooit iets en niets
+658,iemand,9RI-gWTSvLQ,45.55,iemand en iemand ergens en nergens
+659,ergens,9RI-gWTSvLQ,45.55,iemand en iemand ergens en nergens
+660,nergens,9RI-gWTSvLQ,45.55,iemand en iemand ergens en nergens
+661,lars,9RI-gWTSvLQ,56.14,zijn vriend lars lars woont in zweden
+662,zweden,9RI-gWTSvLQ,56.14,zijn vriend lars lars woont in zweden
+663,from,9RI-gWTSvLQ,62.2,hallo hallo dit is martin from amsterdam
+664,las,9RI-gWTSvLQ,69.88,hoi martin met las hoe gaat het met jou
+665,cursus,9RI-gWTSvLQ,83.56,ja martin ik doe een online cursus
+666,theorie,9RI-gWTSvLQ,88.42,ik ken al veel theorie en woorden maar
+667,luisteren,9RI-gWTSvLQ,92.59,spreken en luisteren is erg moeilijk
+668,niemand,9RI-gWTSvLQ,98.47,ik ken hier niemand die nederlands
+669,toen,9RI-gWTSvLQ,109.17,een cursus toen
+670,zomer,9RI-gWTSvLQ,112.36,graag in de zomer dan heb ik vakantie
+671,weet,9RI-gWTSvLQ,117.25,weet jij iets ja ik ken iemand
+672,docente,9RI-gWTSvLQ,123.13,zij heet marieke ze is docente
+673,geeft,9RI-gWTSvLQ,128.14,zij geeft in de zomer
+674,drugs,9RI-gWTSvLQ,130.09,les op de drugs summerschool
+675,summerschool,9RI-gWTSvLQ,130.09,les op de drugs summerschool
+676,zei,9RI-gWTSvLQ,133.69,zei vind het erg leuk
+677,school,9RI-gWTSvLQ,144.24,deze zomer school heeft twee locaties in
+678,locaties,9RI-gWTSvLQ,144.24,deze zomer school heeft twee locaties in
+679,vakantiepark,9RI-gWTSvLQ,152.16,op een vakantiepark ergens in de
+680,provincie,9RI-gWTSvLQ,155.22,provincie drenthe
+681,drenthe,9RI-gWTSvLQ,155.22,provincie drenthe
+682,keuze,9RI-gWTSvLQ,158.1,je hebt de keuze
+683,stad,9RI-gWTSvLQ,160.02,de stad of het platteland
+684,platteland,9RI-gWTSvLQ,160.02,de stad of het platteland
+685,natuur,9RI-gWTSvLQ,164.49,ik hou van de natuur dat weet je
+686,kamperen,9RI-gWTSvLQ,171.87,stad elke zomer ga ik kamperen
+687,barbecuen,9RI-gWTSvLQ,177.18,lekker barbecuen
+688,jaar,9RI-gWTSvLQ,179.7,maar dit jaar wil ik iets anders een
+689,andere,9RI-gWTSvLQ,183.18,andere bestemming
+690,bestemming,9RI-gWTSvLQ,183.18,andere bestemming
+691,strandvakantie,9RI-gWTSvLQ,186.33,ik heb geen zin in een strandvakantie
+692,reis,9RI-gWTSvLQ,190.14,maar een taal reis naar het buitenland
+693,buitenland,9RI-gWTSvLQ,190.14,maar een taal reis naar het buitenland
+694,studeren,9RI-gWTSvLQ,192.62,en studeren in de natuur
+695,klinkt,9RI-gWTSvLQ,196.35,dat klinkt erg goed en ik wil ooit goed
+696,informatie,9RI-gWTSvLQ,204.42,waar vind ik informatie over deze cursus
+697,www,9RI-gWTSvLQ,208.58,op de website www
+698,punt,9RI-gWTSvLQ,211.89,dutch summerschool punt nl staat meer
+699,nl,9RI-gWTSvLQ,211.89,dutch summerschool punt nl staat meer
+700,meer,9RI-gWTSvLQ,211.89,dutch summerschool punt nl staat meer
+701,meteen,9RI-gWTSvLQ,217.86,ik ga meteen boeken oh dat is leuk
+702,boeken,9RI-gWTSvLQ,217.86,ik ga meteen boeken oh dat is leuk
+703,paar,9RI-gWTSvLQ,223.29,misschien kom ik dan ook een paar dagen
+704,bezoeken,9RI-gWTSvLQ,228.47,om jou te bezoeken en marieke
+705,much,9RI-gWTSvLQ,233.33,much and tea marieke
+706,and,9RI-gWTSvLQ,233.33,much and tea marieke
+707,tea,9RI-gWTSvLQ,233.33,much and tea marieke
+708,bepaalde,r00iIe_2x_w,0.26,hallo ik ben bart bepaalde
+709,reserveren,r00iIe_2x_w,17.279,reserveren op internet en we oefenen de
+710,internet,r00iIe_2x_w,17.279,reserveren op internet en we oefenen de
+711,woordvolgorde,r00iIe_2x_w,29.279,over woordvolgorde en
+712,bijwoordelijke,r00iIe_2x_w,32.52,bijwoordelijke bepalingen van plaats en
+713,bepalingen,r00iIe_2x_w,32.52,bijwoordelijke bepalingen van plaats en
+714,leert,r00iIe_2x_w,47.64,las leert nederlands
+715,touch,r00iIe_2x_w,56.788999999999994,hij zit op de website van de touch
+716,vragen,r00iIe_2x_w,63.18,vragen en belt de organisatie
+717,organisatie,r00iIe_2x_w,63.18,vragen en belt de organisatie
+718,biologie,r00iIe_2x_w,69.52,biologie language courses met bart
+719,language,r00iIe_2x_w,69.52,biologie language courses met bart
+720,courses,r00iIe_2x_w,69.52,biologie language courses met bart
+721,malmö,r00iIe_2x_w,74.06,hallo ik ben las uit malmö in zweden
+722,waarmee,r00iIe_2x_w,79.369,dag las waarmee kan ik je helpen
+723,volgend,r00iIe_2x_w,83.3,ik wil volgend jaar in de zomer in de
+724,helft,r00iIe_2x_w,86.75,eerste helft van juli
+725,juli,r00iIe_2x_w,86.75,eerste helft van juli
+726,beantwoordt,r00iIe_2x_w,96.979,geen probleem ik beantwoordt graag al
+727,km,r00iIe_2x_w,115.009,km van treinstation
+728,treinstation,r00iIe_2x_w,115.009,km van treinstation
+729,beilen,r00iIe_2x_w,118.009,beilen in de provincie drenthe
+730,prijzen,r00iIe_2x_w,127.13,de prijzen van de cursus staan op de
+731,totaal,r00iIe_2x_w,132.22,maar hoe weet ik het totaal bedrag incl
+732,bedrag,r00iIe_2x_w,132.22,maar hoe weet ik het totaal bedrag incl
+733,incl,r00iIe_2x_w,132.22,maar hoe weet ik het totaal bedrag incl
+734,huisvesting,r00iIe_2x_w,137.07,huisvesting
+735,klik,r00iIe_2x_w,140.35,klik op de knop prijscalculatie
+736,knop,r00iIe_2x_w,140.35,klik op de knop prijscalculatie
+737,prijscalculatie,r00iIe_2x_w,140.35,klik op de knop prijscalculatie
+738,rechtsboven,r00iIe_2x_w,144.13,rechtsboven op de website
+739,formulier,r00iIe_2x_w,147.55,je moet nu het formulier invullen dan
+740,invullen,r00iIe_2x_w,147.55,je moet nu het formulier invullen dan
+741,offerte,r00iIe_2x_w,151.87,krijg je een offerte
+742,per,r00iIe_2x_w,153.94,net totaal bedrag per e-mail
+743,e-mail,r00iIe_2x_w,153.94,net totaal bedrag per e-mail
+744,boek,r00iIe_2x_w,158.74,oké en hoe boek ik de cursus boeken is
+745,eenvoudig,r00iIe_2x_w,164.92,eenvoudig gewoon klikken op de link in
+746,gewoon,r00iIe_2x_w,164.92,eenvoudig gewoon klikken op de link in
+747,klikken,r00iIe_2x_w,164.92,eenvoudig gewoon klikken op de link in
+748,link,r00iIe_2x_w,164.92,eenvoudig gewoon klikken op de link in
+749,mailtje,r00iIe_2x_w,169.66,het mailtje en dan weer alles invullen
+750,weer,r00iIe_2x_w,169.66,het mailtje en dan weer alles invullen
+751,reservering,r00iIe_2x_w,173.92,en de reservering
+752,bevestigen,r00iIe_2x_w,176.02,bevestigen oké en hoe betaal ik betalen
+753,betaal,r00iIe_2x_w,176.02,bevestigen oké en hoe betaal ik betalen
+754,betalen,r00iIe_2x_w,176.02,bevestigen oké en hoe betaal ik betalen
+755,creditcard,r00iIe_2x_w,185.89,met een creditcard of met ideal
+756,ideal,r00iIe_2x_w,185.89,met een creditcard of met ideal
+757,betaalmethode,r00iIe_2x_w,190.59,wat is ideal ideal is een betaalmethode
+758,banken,r00iIe_2x_w,196.98,van nederlandse banken heb je een
+759,bankrekening,r00iIe_2x_w,200.4,nederlandse bankrekening
+760,opties,r00iIe_2x_w,203.45,nee dan zijn er twee opties
+761,credit,r00iIe_2x_w,208.83,credit cards of bankoverschrijving
+762,cards,r00iIe_2x_w,208.83,credit cards of bankoverschrijving
+763,bankoverschrijving,r00iIe_2x_w,208.83,credit cards of bankoverschrijving
+764,3-d,r00iIe_2x_w,220.769,een 3-d secure code
+765,secure,r00iIe_2x_w,220.769,een 3-d secure code
+766,code,r00iIe_2x_w,220.769,een 3-d secure code
+767,cijfers,r00iIe_2x_w,225.09,zijn dat de drie cijfers op de
+768,achterkant,r00iIe_2x_w,227.7,achterkant van de creditcard
+769,cvc,r00iIe_2x_w,231.329,nee dat is de cvc code
+770,3d,r00iIe_2x_w,235.95,de 3d secure code is niet hetzelfde als
+771,hetzelfde,r00iIe_2x_w,235.95,de 3d secure code is niet hetzelfde als
+772,extra,r00iIe_2x_w,243.959,de 3d secure code is een extra
+773,verificatie,r00iIe_2x_w,247.61,verificatie
+774,sommige,r00iIe_2x_w,250.34900000000002,in sommige landen zoals de verenigde
+775,creditcards,r00iIe_2x_w,252.989,staten hebben veel creditcards
+776,webwinkels,r00iIe_2x_w,261.539,webwinkels kun je niet betalen zonder
+777,zonder,r00iIe_2x_w,261.539,webwinkels kun je niet betalen zonder
+778,duidelijk,r00iIe_2x_w,268.97900000000004,oké alles is duidelijk
+779,aflevering,r00iIe_2x_w,283.87,aflevering gaat de las naar nederland
+780,reizen,r00iIe_2x_w,288.95,dan praten we over de reizen en het
+781,openbaar,r00iIe_2x_w,292.25,openbaar vervoer
+782,vervoer,r00iIe_2x_w,292.25,openbaar vervoer
+783,25,PVdcaVhKBj4,19.65,les 25 over
+784,negatie,PVdcaVhKBj4,23.25,negatie en
+785,bevat,PVdcaVhKBj4,26.85,deze aflevering bevat woorden die te
+786,thema,PVdcaVhKBj4,30.6,maken hebben met het thema reizen
+787,rijst,PVdcaVhKBj4,36.149,dit is lars lars rijst vandaag
+788,reist,PVdcaVhKBj4,44.57899999999999,hij reist niet met de auto
+789,auto,PVdcaVhKBj4,44.57899999999999,hij reist niet met de auto
+790,vliegtuig,PVdcaVhKBj4,50.77,hij reist met het vliegtuig
+791,landt,PVdcaVhKBj4,55.37,om 12 uur landt hij op schiphol
+792,schiphol,PVdcaVhKBj4,55.37,om 12 uur landt hij op schiphol
+793,vliegveld,PVdcaVhKBj4,60.11,dat is het vliegveld van amsterdam
+794,kaartje,PVdcaVhKBj4,71.54,las heeft nog geen kaartje voor de trein
+795,automaat,PVdcaVhKBj4,75.979,hij staat bij de automaat
+796,begrijpt,PVdcaVhKBj4,80.03,hij begrijpt het niet
+797,hulp,PVdcaVhKBj4,84.649,heb je hulp nodig zegt de man achter hem
+798,man,PVdcaVhKBj4,84.649,heb je hulp nodig zegt de man achter hem
+799,hem,PVdcaVhKBj4,84.649,heb je hulp nodig zegt de man achter hem
+800,welk,PVdcaVhKBj4,97.31,ik weet niet welk kaartje voor het
+801,ov-chipkaart,PVdcaVhKBj4,106.21,ov-chipkaart nodig
+802,kaart,PVdcaVhKBj4,109.399,met die kaart
+803,metro,PVdcaVhKBj4,110.96,betaal je in de trein de metro
+804,tram,PVdcaVhKBj4,114.83,de tram en de bus
+805,bus,PVdcaVhKBj4,114.83,de tram en de bus
+806,werkt,PVdcaVhKBj4,122.59,hoe werkt dat
+807,koop,PVdcaVhKBj4,126.07,eerst koop je een anonieme ov-chipkaart
+808,anonieme,PVdcaVhKBj4,126.07,eerst koop je een anonieme ov-chipkaart
+809,anoniem,PVdcaVhKBj4,131.98,anoniem
+810,foto,PVdcaVhKBj4,137.95,staat geen foto en geen naam
+811,verkoopt,PVdcaVhKBj4,142.9,deze automaat verkoopt anonieme
+812,eh,PVdcaVhKBj4,146.05,ov-chipkaart eh oké en dan daarna moet
+813,saldo,PVdcaVhKBj4,153.76,je het saldo opwaarderen
+814,opwaarderen,PVdcaVhKBj4,153.76,je het saldo opwaarderen
+815,zet,PVdcaVhKBj4,162.19,dan zet je bijvoorbeeld 50 of 100 euro
+816,bijvoorbeeld,PVdcaVhKBj4,162.19,dan zet je bijvoorbeeld 50 of 100 euro
+817,100,PVdcaVhKBj4,162.19,dan zet je bijvoorbeeld 50 of 100 euro
+818,tegoed,PVdcaVhKBj4,166.78,tegoed op de kaart
+819,inchecken,PVdcaVhKBj4,179.53,ja maar bij elke reis moet je inchecken
+820,uitchecken,PVdcaVhKBj4,184.32,en uitchecken
+821,af,PVdcaVhKBj4,190.84,af oh nou dat is niet makkelijk
+822,makkelijk,PVdcaVhKBj4,190.84,af oh nou dat is niet makkelijk
+823,zwolle,PVdcaVhKBj4,214.48,ga jij eerst met de trein naar zwolle
+824,leer,PVdcaVhKBj4,223.9,ik leer je inchecken en uitchecken
+825,aardig,PVdcaVhKBj4,228.549,dat is heel aardig zegt las hoe heet jij
+826,soliman,PVdcaVhKBj4,234.819,ik ben soliman ik kom uit egypte
+827,egypte,PVdcaVhKBj4,234.819,ik ben soliman ik kom uit egypte
+828,toevallig,PVdcaVhKBj4,250.209,echt waar dat is toevallig
+829,summer,PVdcaVhKBj4,253.66,ik ook bij de dutch summer school
+830,eindbestemming,PVdcaVhKBj4,263.35,samen reizen tot de eindbestemming
+831,maak,PVdcaVhKBj4,268.21,maak je geen zorgen ik weet de weg
+832,zorgen,PVdcaVhKBj4,268.21,maak je geen zorgen ik weet de weg
+833,weg,PVdcaVhKBj4,268.21,maak je geen zorgen ik weet de weg
+834,los,PVdcaVhKBj4,271.9,het is voor mij de tweede keer los koopt
+835,loopt,PVdcaVhKBj4,284.5,samen met soliman loopt hij naar de
+836,checken,PVdcaVhKBj4,289.0,ze checken in
+837,27,c_B3gm_5uQU,20.0,les 27
+838,trappen,c_B3gm_5uQU,23.089000000000002,over de trappen van vergelijking
+839,vergelijking,c_B3gm_5uQU,23.089000000000002,over de trappen van vergelijking
+840,kennen,c_B3gm_5uQU,37.01,ze kennen elkaar nog maar net
+841,handelaar,c_B3gm_5uQU,46.34,ben handelaar in groenten en fruit
+842,fruit,c_B3gm_5uQU,46.34,ben handelaar in groenten en fruit
+843,verkopen,c_B3gm_5uQU,50.538999999999994,zegt soliman wij verkopen veel fruit uit
+844,elk,c_B3gm_5uQU,60.05,elk jaar meer we hebben ook duitse
+845,duitse,c_B3gm_5uQU,60.05,elk jaar meer we hebben ook duitse
+846,meeste,c_B3gm_5uQU,64.61,klanten maar het meeste gaat naar
+847,vaak,c_B3gm_5uQU,67.94,nederland ben je vaak in nederland
+848,vaker,c_B3gm_5uQU,73.74,ja steeds vaker en daarom wil ik beter
+849,beter,c_B3gm_5uQU,73.74,ja steeds vaker en daarom wil ik beter
+850,ons,c_B3gm_5uQU,82.14,ons bedrijf groeit snel
+851,bedrijf,c_B3gm_5uQU,82.14,ons bedrijf groeit snel
+852,groeit,c_B3gm_5uQU,82.14,ons bedrijf groeit snel
+853,snel,c_B3gm_5uQU,82.14,ons bedrijf groeit snel
+854,groter,c_B3gm_5uQU,84.63,we worden groter en nederland is onze
+855,onze,c_B3gm_5uQU,84.63,we worden groter en nederland is onze
+856,belangrijkste,c_B3gm_5uQU,89.52,belangrijkste markt
+857,interessant,c_B3gm_5uQU,93.689,interessant en waarom leer jij
+858,vinden,c_B3gm_5uQU,107.52,veel mensen vinden frans een mooie taal
+859,mooier,c_B3gm_5uQU,110.67,maar ik vind nederlands mooier dan frans
+860,mooiste,c_B3gm_5uQU,115.54899999999999,is het de mooiste taal die je kent de
+861,fans,c_B3gm_5uQU,121.15899999999999,fans
+862,absoluut,c_B3gm_5uQU,122.789,is absoluut de mooiste taal maar die
+863,moeilijker,c_B3gm_5uQU,127.11,taal is ook veel moeilijker dan
+864,fins,c_B3gm_5uQU,133.019,misschien is fins wel de moeilijkste
+865,moeilijkste,c_B3gm_5uQU,133.019,misschien is fins wel de moeilijkste
+866,weinig,c_B3gm_5uQU,139.59,spreek je veel fins nee heel weinig
+867,minder,c_B3gm_5uQU,148.29,steeds minder waarom doe je de cursus in
+868,liever,c_B3gm_5uQU,157.53,ik ga liever naar drenthe
+869,rustig,c_B3gm_5uQU,161.01,het is daar rustig dus je kunt beter
+870,gezelliger,c_B3gm_5uQU,164.90900000000002,studeren het is gezelliger
+871,want,c_B3gm_5uQU,168.65900000000002,want iedereen woont bij elkaar en de
+872,iedereen,c_B3gm_5uQU,168.65900000000002,want iedereen woont bij elkaar en de
+873,goedkoper,c_B3gm_5uQU,173.34,cursus in drenthe is goedkoper dan de
+874,omgeving,c_B3gm_5uQU,183.449,beste omgeving
+875,barbecueën,c_B3gm_5uQU,196.31900000000002,barbecueën ja dat klopt
+876,docenten,c_B3gm_5uQU,208.68,hij kent een van de docenten zij heet
+877,vorig,c_B3gm_5uQU,218.549,vorig jaar
+878,houd,c_B3gm_5uQU,221.04,oh wat leuk marieke houd erg van
+879,drankje,c_B3gm_5uQU,225.12,barbecuen en nog meer van een drankje
+880,barbecue,c_B3gm_5uQU,229.34900000000002,bij de barbecue
+881,benieuwd,c_B3gm_5uQU,232.9,ik ben benieuwd
+882,overstappen,c_B3gm_5uQU,239.51,hier moeten we overstappen op de trein
+883,groningen,c_B3gm_5uQU,242.87,naar groningen
+884,treinen,c_B3gm_5uQU,246.26,we zitten nu toch ook in de treinen
+885,intercity,c_B3gm_5uQU,250.55,ja maar dit is een intercity die stopt
+886,overal,c_B3gm_5uQU,255.35,niet overal
+887,sprinter,c_B3gm_5uQU,258.35,daarom nemen we de sprinter naar
+888,vergrotende,c_B3gm_5uQU,279.05,de vergrotende trap comparatief
+889,trap,c_B3gm_5uQU,279.05,de vergrotende trap comparatief
+890,comparatief,c_B3gm_5uQU,279.05,de vergrotende trap comparatief
+891,overtreffende,c_B3gm_5uQU,283.22,en de overtreffende trap superlatief
+892,superlatief,c_B3gm_5uQU,283.22,en de overtreffende trap superlatief
+893,premium,c_B3gm_5uQU,294.55,heb je geen premium toegang tot hashtag
+894,toegang,c_B3gm_5uQU,294.55,heb je geen premium toegang tot hashtag
+895,bekijken,c_B3gm_5uQU,299.83,dan kun je deze les wel bekijken les 27
+896,gratis,c_B3gm_5uQU,305.47,is een gratis les
+897,26,jEwY4EwmG3E,19.19,hashtag dutch grammar les 26
+898,vraagwoorden,jEwY4EwmG3E,23.96,over vraagwoorden met hoe los en soliman
+899,perron,jEwY4EwmG3E,38.87,trein naar welk perron moeten we
+900,spoor,jEwY4EwmG3E,44.06,vraagt las naar spoor 7
+901,lang,jEwY4EwmG3E,55.539,hoe lang moeten we wachten niet zolang
+902,zolang,jEwY4EwmG3E,55.539,hoe lang moeten we wachten niet zolang
+903,later,jEwY4EwmG3E,65.57,twee minuten maar twee minuten later nog
+904,terrein,jEwY4EwmG3E,77.42,hoe vaak gaat die terrein
+905,sprinten,jEwY4EwmG3E,80.99,de sprinten naar groningen gaat twee
+906,uurtje,jEwY4EwmG3E,90.8,uurtje wachten
+907,gelukkig,jEwY4EwmG3E,93.31,gelukkig
+908,vertraging,jEwY4EwmG3E,98.659,beetje vertraging
+909,stappen,jEwY4EwmG3E,105.92,stappen in de trein
+910,ver,jEwY4EwmG3E,111.6,hoe ver moeten we nog reizen
+911,38,jEwY4EwmG3E,116.62,nog 38 minuten
+912,wijlen,jEwY4EwmG3E,127.619,op het station van wijlen
+913,enigen,jEwY4EwmG3E,141.49,zij zijn niet de enigen
+914,koffer,jEwY4EwmG3E,149.18,koffer
+915,jullie,jEwY4EwmG3E,151.22,hallo gaan jullie ook na de summerschool
+916,chauffeur,jEwY4EwmG3E,159.23,we wachten op de chauffeur
+917,ieder,jEwY4EwmG3E,173.75,hij kan ieder moment hier zijn
+918,moment,jEwY4EwmG3E,173.75,hij kan ieder moment hier zijn
+919,busje,jEwY4EwmG3E,179.09,en inderdaad daar komt een busje achter
+920,rijdt,jEwY4EwmG3E,184.1,het busje rijdt een personenauto
+921,personenauto,jEwY4EwmG3E,184.1,het busje rijdt een personenauto
+922,koffers,jEwY4EwmG3E,197.03,hoeveel koffers hebben jullie een twee
+923,persoon,jEwY4EwmG3E,214.28,een persoon kan met mij mee
+924,rest,jEwY4EwmG3E,217.25,de rest kan in die auto
+925,mas,jEwY4EwmG3E,221.51,mas stapt in het busje
+926,stapt,jEwY4EwmG3E,221.51,mas stapt in het busje
+927,rijden,jEwY4EwmG3E,230.989,hoe ver is het rijden
+928,vanaf,jEwY4EwmG3E,237.41,vanaf het station in beilen tot het
+929,minuutjes,jEwY4EwmG3E,240.62,vakantiepark is 10 minuutjes rijden
+930,park,jEwY4EwmG3E,247.43,ze komen aan op het park
+931,sleutel,jEwY4EwmG3E,253.91,jullie kunnen de sleutel ophalen bij de
+932,ophalen,jEwY4EwmG3E,253.91,jullie kunnen de sleutel ophalen bij de
+933,receptie,jEwY4EwmG3E,256.669,receptie
