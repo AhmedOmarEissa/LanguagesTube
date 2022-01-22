@@ -8,7 +8,7 @@ import pandas as pd
 import secret 
 scopes = ["https://www.googleapis.com/auth/youtube.readonly"]
 
-def get_response(playlist):
+def get_response_playlist(playlist):
 
     api_service_name = "youtube"
     api_version = "v3"
@@ -25,6 +25,14 @@ def get_response(playlist):
     return response
 
 
-def get_videos(response):
+def get_videos_playllist(response):
     return [response['items'][i]['contentDetails']['videoId'] for i in range(len(response['items']))]
 
+
+
+## DOWNLOAD THE VIDEO SUBTITLES
+def get_subtitle(id):
+    dict_sentence = YouTubeTranscriptApi.get_transcript(id,languages =['nl'])
+    new_episode = pd.DataFrame(dict_sentence)
+    new_episode['episode'] = 'https://www.youtube.com/watch?v=' + id 
+    return new_episode
