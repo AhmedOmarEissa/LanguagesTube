@@ -32,9 +32,24 @@ def get_response_playlist(playlist):
 
     return response
 
+def get_views_video(video):
+
+    api_service_name = "youtube"
+    api_version = "v3"
+
+    # Get credentials and create an API client
+    youtube = googleapiclient.discovery.build(api_service_name, api_version, developerKey=secret.developerKey)
+    request = youtube.videos().list(
+        id=video,
+        part = 'statistics',
+        #maxResults = 100
+        )
+    response = request.execute()
+
+    return response
 
 def get_videos_playllist(response):
-    return [response['items'][i]['contentDetails']['videoId'] for i in range(len(response['items']))]
+    return [response['items'][i]['contentDetails'] for i in range(len(response['items']))]
 
 
 ## DOWNLOAD THE VIDEO SUBTITLES
