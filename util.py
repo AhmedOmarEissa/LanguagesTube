@@ -54,7 +54,12 @@ def get_videos_playllist(response):
 
 ## DOWNLOAD THE VIDEO SUBTITLES
 def get_subtitle(id):
-    dict_sentence = YouTubeTranscriptApi.get_transcript(id,languages =['nl'])
-    new_episode = pd.DataFrame(dict_sentence)
-    new_episode['episode'] = 'https://www.youtube.com/watch?v=' + id 
-    return new_episode
+    try:
+        dict_sentence = YouTubeTranscriptApi.get_transcript(id,languages =['nl'])
+        new_episode = pd.DataFrame(dict_sentence)
+        new_episode['episode'] = 'https://www.youtube.com/watch?v=' + id 
+        return new_episode
+
+    except Exception as e:
+        print(f"Could not retrieve subtitles for video {id}. Error: {e}")
+
