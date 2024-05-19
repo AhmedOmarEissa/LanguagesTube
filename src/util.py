@@ -63,3 +63,11 @@ def get_subtitle(id):
     except Exception as e:
         print(f"Could not retrieve subtitles for video {id}. Error: {e}")
 
+
+
+def get_video_info(videoId):
+    response = get_subtitle(videoId)
+    if response is not None:
+        return response['text'].str.cat(sep=' ')
+    else:
+        return None

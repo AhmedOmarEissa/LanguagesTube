@@ -1,12 +1,18 @@
 from util import get_response_playlist, get_videos_playllist,get_subtitle
 import pandas as pd
-import time
 import os 
+import json
 
 
-def check_articles(path , create_new = False):
+# def create_files_map(path,json_file):
+#     with open(path +'data.json', 'w') as f:
+#         json.dump(json_file, f)
+#         print('File created')
 
-    if not os.path.exists(path) and create_new:
+
+def check_articles(path , create_folder_if_not_exist = False):
+
+    if not os.path.exists(path) and create_folder_if_not_exist:
         os.makedirs(path)
         return  []
     else:
@@ -21,19 +27,17 @@ def generate_article(subtitle_text, videoId, path):
         print(f'Article {videoId} generated')
     
 
-
-
-if __name__ == '__main__':
-
+def generate_articles(path, create_folder_if_not_exist = False):
     response = get_response_playlist('PLO72qiQ-gJuFzpCgQcsdd4lkulqeeBMC3') # NOS Nieuws van de Week
 
     videos = get_videos_playllist(response )
 
     columns= ['episode','start', 'text']
 
+    # create_files_map('articles/',{str(i['videoId']): str(i['videoPublishedAt']) for i in videos})
+
     last_10_videos = videos[:10]
-    path = 'articles/'
-    generated_articles = check_articles(path, create_new = True)
+    generated_articles = check_articles(path, create_folder_if_not_exist = create_folder_if_not_exist)
 
     for video_info in last_10_videos:
 
@@ -41,8 +45,7 @@ if __name__ == '__main__':
 
         response = get_subtitle(videoId)
         
-
-        if response is not None and videoId + '.txt' not in generated_articles: 
+        if response is not None and videoId + '.txt' not in generated_articles:
             subtitle_text = response['text'].str.cat(sep=' ')
             generate_article(subtitle_text, videoId, path)
 
