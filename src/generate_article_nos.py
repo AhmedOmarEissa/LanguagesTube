@@ -10,7 +10,7 @@ import json
 #         print('File created')
 
 
-def check_articles(path , create_folder_if_not_exist = False):
+def check_articles_folder(path , create_folder_if_not_exist = False):
 
     if not os.path.exists(path) and create_folder_if_not_exist:
         os.makedirs(path)
@@ -37,8 +37,8 @@ def generate_articles(path, create_folder_if_not_exist = False):
     # create_files_map('articles/',{str(i['videoId']): str(i['videoPublishedAt']) for i in videos})
 
     last_10_videos = videos[:10]
-    generated_articles = check_articles(path, create_folder_if_not_exist = create_folder_if_not_exist)
-
+    generated_articles = check_articles_folder(path, create_folder_if_not_exist = create_folder_if_not_exist)
+    video_metadata = {}
     for video_info in last_10_videos:
 
         videoId = video_info['videoId'] # get video id
@@ -48,6 +48,8 @@ def generate_articles(path, create_folder_if_not_exist = False):
         if response is not None and videoId + '.txt' not in generated_articles:
             subtitle_text = response['text'].str.cat(sep=' ')
             generate_article(subtitle_text, videoId, path)
+            video_metadata[videoId] = video_info['videoPublishedAt']
+    json.dump(video_metadata, open(path + 'metadata.json', 'w'))
 
 
 # The code above is a script that generates articles from the last 10 videos of the NOS Nieuws van de Week playlist.
