@@ -2,7 +2,7 @@ import urllib.request
 import json
 import urllib
 import datetime
-from generate_article_nos import check_articles
+from generate_article_nos import check_articles_folder
 import os
 
 def get_video_data(video_id):
@@ -10,7 +10,7 @@ def get_video_data(video_id):
     url = "https://www.youtube.com/oembed"
     query_string = urllib.parse.urlencode(params)
     url = url + "?" + query_string
-
+    
     with urllib.request.urlopen(url) as response:
         response_text = response.read()
         data = json.loads(response_text.decode())
@@ -33,8 +33,8 @@ This text is automatically generated from the subtitles of NOS Nieuws van de Wee
 
 ## {title}
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/{video_id}/0.jpg)](https://www.youtube.com/watch?v={video_id})
-****
+
+
 """
     return markdown_template    
 
@@ -66,6 +66,7 @@ def create_markdowns(text_file_path, video_id, title, date, description, tags , 
         description (str): The description of the video.
         tags (str): The tags associated with the video.
 
+
     Returns:
         None
     """
@@ -74,8 +75,8 @@ def create_markdowns(text_file_path, video_id, title, date, description, tags , 
         print(f"Text file {text_file} not found.")
         return
     #check if markdown file already exists
-    markdown_file = title.lower().replace(' ', '-').replace(',', '').replace('?', '') + '.md'
-
+    markdown_file = title.lower().replace('.','').replace(' ', '-').replace(',', '').replace('?', '') + '.md'
+    markdown_file = date.split(' ')[0] + '-' + markdown_file
     if os.path.exists(os.path.join(text_file_path, markdown_file)) and not replace:
         print(f"Markdown file {markdown_file} already exists.")
         return
@@ -94,6 +95,8 @@ def create_markdowns(text_file_path, video_id, title, date, description, tags , 
         f.write(f"date: {date}\n")
         f.write(f"description: {description}\n")
         f.write(f"tags: {tags}\n")
+        f.write(f"image: https://img.youtube.com/vi/{video_id}/0.jpg\n")
+        f.write(f"video_embed: https://www.youtube.com/embed/{video_id}\n")
         f.write("\n")
         f.write("---\n")
         f.write(content)
@@ -103,18 +106,24 @@ def create_markdowns(text_file_path, video_id, title, date, description, tags , 
 
 def generate_markdowns(path, replace_if_exist = True, top_words_dict = None):
     path = './articles/'
-    generated_articles = check_articles(path, create_folder_if_not_exist = False)
-    today = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S") + ' +0000'
+    metadata = json.load(open(path + 'metadata.json'))
+
+    generated_articles = check_articles_folder(path, create_folder_if_not_exist = False)
+    #today = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S") + ' +0000'
     for article in generated_articles:
         if '.txt' not in article: 
             continue
         video = article.replace('.txt','')
+        date = metadata[video]
+        today = date.replace('T',' ').replace('Z','') + ' +0000'
+
+
         video_data = get_video_data(video)
         create_markdowns(path,
                          video,
                          video_data['title'],
                          today,
                          'NOS news for the week',
-                         'NOS project',
+                         'dutch',
                          top_words_dict,
                          replace = replace_if_exist)
